@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blueviolet;
+}
+
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100%;
+  width: 100vw;
+}
+
+.info-project {
+  width: 300px;
+  margin-top: 30px;
+}
+
+.info-project p {
+  text-align: justify;
+  color: white;
+  margin-top: 10px;
+}
+
+.img-carta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+
+button {
+  background: transparent;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 30px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: background 1;
+}
+
+button:hover, button:focus {
+  background: black;
+}
