@@ -5,7 +5,7 @@
 <br>
 
 <p>🔍 Objetivos: <br>
-O projeto teve como função primordial estudar a requisição fetch() do JS. Assim, o consumo de API se torna vivável. <br>
+O projeto teve como função primordial estudar a requisição fetch() do JS. Assim, o consumo de API se torna viável. <br>
 A API consumida foi de cartas de baralho, o usuário pode clicar no botão e a carta aparecerá aleatoriamente.
 </p>
 <br>
