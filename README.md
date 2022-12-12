@@ -10,7 +10,7 @@ A API consumida foi de cartas de baralho, o usuário pode clicar no botão e a c
 </p>
 <br>
 
-<p> 💻 A API utilizado está disponível através de: <br>
+<p> 💻 A API utilizada está disponível através de: <br>
 <a href="https://www.deckofcardsapi.com/">API utilizada</a>
 </p>
 <br> 
