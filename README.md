@@ -13,4 +13,8 @@ A API consumida foi de cartas de baralho, o usuário pode clicar no botão e a c
 <p> 💻 A API utilizado está disponível através de: <br>
 <a href="https://www.deckofcardsapi.com/">API utilizada</a>
 </p>
+<br> 
+<p>⏩ A aplicação pode ser acessada: <br>
+  <a href="https://viniciusgithu.github.io/api-cards/">Disponível aqui</a>
+</p>
 
